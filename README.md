@@ -1,3 +1,4 @@
+lab 6
 ✅ Step 1: Install Ansible (on Control Node)
 
 sudo apt update
